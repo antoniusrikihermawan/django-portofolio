@@ -1,3 +1,8 @@
-myenv/
+*.log
+.vscode/
 *.pyc
 __pycache__/
+db.sqlite3
+/media/
+/static_cdn/
+.env
